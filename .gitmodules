@@ -1,0 +1,3 @@
+[submodule "claudeOpenCode"]
+    path = claudeOpenCode
+    url = https://github.com/hq1099855036/claudeOpenCode.git
